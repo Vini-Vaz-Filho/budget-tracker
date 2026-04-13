@@ -18,4 +18,4 @@ This is a Python-based Budget Tracker that allows users to:
 2. Run: python budget_tracker.py
 
 ## Author
-Your Name
+Vini Vaz Filho
